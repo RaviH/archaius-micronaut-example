@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: arrchaius.example
+---
+testFramework: junit
+sourceLanguage: java

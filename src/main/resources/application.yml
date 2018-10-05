@@ -1,0 +1,11 @@
+micronaut:
+    application:
+        name: arrchaius-example
+                
+#Uncomment to set server port
+#    server:
+#        port: 8080
+
+archaius:
+    dynamicPropertyFactory:
+        registerConfigWithJMX: true
